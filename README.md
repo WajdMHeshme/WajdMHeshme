@@ -5,12 +5,10 @@
 
 ### 👨‍💻 About Me
 
-
 - 💡 I'm a passionate front-end developer specialized in building dynamic and responsive web interfaces.
 - 🎓 Studies at **Lattakia University - ITE** 🎓
 - 🚀 I work mainly with React.js and Next.js to deliver fast and modern web apps.
 - 📬 Reach me at: **wajdtitos@gmail.com**
-
 
 ---
 
@@ -33,6 +31,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/api-settings.png" alt="REST API" width="40" height="40"/>
 </p>
+
+---
+
+## 📝 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wajdheshme&layout=compact&theme=blue-green)
+
+---
+
+## 📊 GitHub Stats
+
+![Wajd's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajdheshme&show_icons=true&theme=blue-green)
 
 ---
 
