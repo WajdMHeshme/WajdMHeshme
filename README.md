@@ -33,12 +33,9 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
-## 📝 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WajdMHeshme&layout=compact&theme=blue-green)
-
----
+![Wajd's GitHub stats](https://github-readme-stats.vercel.app/api?username=WajdMHeshme&show_icons=true&theme=blue-green)
 
 
 ### 📫 Contact Me
