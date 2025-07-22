@@ -9,7 +9,7 @@
 - 🚀 I work mainly with React.js and Next.js to deliver fast and modern web apps.
 - 📬 Reach me at: **wajdtitos@gmail.com**
 
----
+
 
 ### 🛠️ Technical Skills
 
@@ -22,19 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-### ⚙️ Other Tools & Technologies
 
-- React Bootstrap  
-- Redux Toolkit  
-- REST APIs  
-
-
-### 📫 Contact Me
+ 📫 Contact Me
 
 - 📧 Email: **wajdtitos@gmail.com**
 ---
