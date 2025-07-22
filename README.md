@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wajd Heshme</h1>
+<h1 align="center">Hi <span style="display:inline-block; animation: wave 2s infinite;">👋</span>, I'm Wajd Heshme</h1>
 <h3 align="center">🎓 IT Student & 💻 Frontend Web Developer</h3>
 
 ---
@@ -6,6 +6,7 @@
 ### 👨‍💻 About Me
 
 - 💡 I'm a passionate front-end developer specialized in building dynamic and responsive web interfaces.
+- 🎯 Studies at **Lattakia University - ITE**
 - 🚀 I work mainly with React.js and Next.js to deliver fast and modern web apps.
 - 📬 Reach me at: **wajdtitos@gmail.com**
 
@@ -37,3 +38,18 @@
 
 - 📧 Email: **wajdtitos@gmail.com**
 
+---
+
+<!-- Waving hand animation (works only in GitHub-flavored markdown) -->
+<style>
+@keyframes wave {
+  0% { transform: rotate(0.0deg) }
+  10% { transform: rotate(14.0deg) }
+  20% { transform: rotate(-8.0deg) }
+  30% { transform: rotate(14.0deg) }
+  40% { transform: rotate(-4.0deg) }
+  50% { transform: rotate(10.0deg) }
+  60% { transform: rotate(0.0deg) }
+  100% { transform: rotate(0.0deg) }
+}
+</style>
