@@ -36,13 +36,14 @@
 
 ## 📝 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wajdheshme&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WajdMHeshme&layout=compact&theme=blue-green)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Wajd's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajdheshme&show_icons=true&theme=blue-green)
+![Wajd's GitHub stats](https://github-readme-stats.vercel.app/api?username=WajdMHeshme&show_icons=true&theme=blue-green)
+
 
 ---
 
