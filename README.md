@@ -5,10 +5,12 @@
 
 ### 👨‍💻 About Me
 
+
 - 💡 I'm a passionate front-end developer specialized in building dynamic and responsive web interfaces.
-- 🎯 Studies at **Lattakia University - ITE**
+- 🎓 Studies at **Lattakia University - ITE** 🎓
 - 🚀 I work mainly with React.js and Next.js to deliver fast and modern web apps.
 - 📬 Reach me at: **wajdtitos@gmail.com**
+
 
 ---
 
