@@ -37,10 +37,16 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="OOP" width="40" height="40"/>
 </p>
 
 ---
+
+### 🧠 Extra Knowledge
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="OOP" width="40" height="40"/>
+</p>
+
 
 ## 📊 GitHub Stats
 
