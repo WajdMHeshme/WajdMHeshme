@@ -26,19 +26,28 @@
   <img src="https://img.icons8.com/color/480/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/api-settings.png" alt="REST API" width="40" height="40"/>
 </p>
 
 ---
+
+### 🧩 Extra Languages
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-OOP-ux-and-ui-flat-icons-inmotus-design.png" alt="OOP" width="40" height="40"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![Wajd's GitHub stats](https://github-readme-stats.vercel.app/api?username=WajdMHeshme&show_icons=true&theme=blue-green)
 
+---
 
 ### 📫 Contact Me
 
 - 📧 Email: **wajdtitos@gmail.com**
-
