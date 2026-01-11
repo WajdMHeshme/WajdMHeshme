@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 IT & Software Engineering student at **Lattakia University – ITE**<br>- 💻 Frontend Web Developer focused on **React & Next.js**<br>- 🚀 I enjoy building **clean UI**, **strong logic**, and **scalable front-end architectures**
+ 🎓 IT & Software Engineering student at **Lattakia University – ITE**<br> 💻 Frontend Web Developer focused on **React & Next.js**<br>- 🚀 I enjoy building **clean UI**, **strong logic**, and **scalable front-end architectures**
 
 
 ## 🌐 Socials:
