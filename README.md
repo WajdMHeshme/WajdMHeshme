@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wajd%20Heshme-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajd-heshme-1670053a8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wajd%20Heshme-0A66C2?logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/wajd-heshme-1670053a8)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wajd.heshme?mibextid=ZbWKwL)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wajdtitos@gmail.com)
 
